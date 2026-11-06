@@ -143,7 +143,7 @@ function enviar(req, res, archivo, tipo, estado = 200) {
   return true;
 }
 
-const server = http.createServer((req, res) => {
+const manejar = (req, res) => {
     const urlPath = new URL(req.url, 'http://local').pathname;
     if (req.method === 'POST') {
       let cuerpo = '';
@@ -183,15 +183,20 @@ const server = http.createServer((req, res) => {
     console.log('falta', req.headers.rsc === '1' ? '(RSC ' + variante(req.headers) + ')' : '', req.url);
     res.writeHead(404, { 'Content-Type': 'text/plain; charset=utf-8' });
     res.end('No está en la copia local: ' + req.url);
+};
+
+if (require.main === module) {
+  const server = http.createServer(manejar);
+  server.on('error', (err) => {
+    if (err.code === 'EADDRINUSE') {
+      console.error(`\n⚠️  El puerto ${PUERTO} ya está ocupado por otra instancia.`);
+      console.error(`Para liberarlo podés ejecutar: fuser -k ${PUERTO}/tcp\n`);
+      process.exit(1);
+    }
+    throw err;
   });
 
-server.on('error', (err) => {
-  if (err.code === 'EADDRINUSE') {
-    console.error(`\n⚠️  El puerto ${PUERTO} ya está ocupado por otra instancia.`);
-    console.error(`Para liberarlo podés ejecutar: fuser -k ${PUERTO}/tcp\n`);
-    process.exit(1);
-  }
-  throw err;
-});
+  server.listen(PUERTO, '0.0.0.0', () => console.log(`SweetTape (copia local optimizada): http://127.0.0.1:${PUERTO}`));
+}
 
-server.listen(PUERTO, '127.0.0.1', () => console.log(`SweetTape (copia local optimizada): http://127.0.0.1:${PUERTO}`));
+module.exports = manejar;

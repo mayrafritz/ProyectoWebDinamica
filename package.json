@@ -1,7 +1,10 @@
 {
-  "name": "sweet-tape-copia-local",
+  "name": "proyecto-web-dinamica",
   "private": true,
   "description": "Copia local de sweet-tape.com para estudiar (uso educativo, no publicar)",
+  "engines": {
+    "node": ">=22.12"
+  },
   "scripts": {
     "start": "node servidor.js"
   }
