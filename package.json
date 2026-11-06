@@ -1,0 +1,8 @@
+{
+  "name": "sweet-tape-copia-local",
+  "private": true,
+  "description": "Copia local de sweet-tape.com para estudiar (uso educativo, no publicar)",
+  "scripts": {
+    "start": "node servidor.js"
+  }
+}

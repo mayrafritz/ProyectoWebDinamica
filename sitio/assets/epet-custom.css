@@ -1,0 +1,34 @@
+/* Ajustes visuales de la edición escolar; no modifica interacciones. */
+:root {
+  --stage-bg: #4b326d;
+  --sb-track: #241a32;
+  --sb-thumb: #ffb86b;
+  --word-colour: #ffb86b;
+  --nav-face: #fff0dc;
+  --nav-ink: #55336f;
+  --tag-bg: #ffb86b;
+  --tag-ink: #392344;
+}
+
+body {
+  background: #4b326d;
+}
+
+.site-menu {
+  --menu-ink: #392344;
+  --menu-paper: #fff0dc;
+  --menu-dot: #ff9f68;
+}
+
+.hand-line {
+  font-family: var(--font-note), "Comic Sans MS", cursive;
+}
+
+.site-preloader .preloader-mark {
+  filter: hue-rotate(28deg) saturate(1.12);
+}
+
+.menu-tab-sheet {
+  font-family: var(--font-heading);
+  letter-spacing: .08em;
+}

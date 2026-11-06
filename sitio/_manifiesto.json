@@ -1,0 +1,1252 @@
+{
+ "/": {
+  "archivo": "index.html",
+  "tipo": "text/html; charset=utf-8",
+  "url": "https://sweet-tape.com/"
+ },
+ "/__ext_/use.typekit.net/wyl5nhy.css": {
+  "archivo": "__ext_/use.typekit.net/wyl5nhy.css",
+  "tipo": "text/css;charset=utf-8",
+  "url": "https://use.typekit.net/wyl5nhy.css"
+ },
+ "/_next/static/media/4317bd468b03db68-s.p.2iw_c-zuq9o4-.woff2": {
+  "archivo": "_next/static/media/4317bd468b03db68-s.p.2iw_c-zuq9o4-.woff2",
+  "tipo": "font/woff2",
+  "url": "https://sweet-tape.com/_next/static/media/4317bd468b03db68-s.p.2iw_c-zuq9o4-.woff2"
+ },
+ "/_next/static/chunks/1mzbr_ouhiypa.css": {
+  "archivo": "_next/static/chunks/1mzbr_ouhiypa.css",
+  "tipo": "text/css; charset=UTF-8",
+  "url": "https://sweet-tape.com/_next/static/chunks/1mzbr_ouhiypa.css"
+ },
+ "/_next/static/chunks/3a1i5uvypa9rc.css": {
+  "archivo": "_next/static/chunks/3a1i5uvypa9rc.css",
+  "tipo": "text/css; charset=UTF-8",
+  "url": "https://sweet-tape.com/_next/static/chunks/3a1i5uvypa9rc.css"
+ },
+ "/_next/static/chunks/3d3he_58a9ppz.css": {
+  "archivo": "_next/static/chunks/3d3he_58a9ppz.css",
+  "tipo": "text/css; charset=UTF-8",
+  "url": "https://sweet-tape.com/_next/static/chunks/3d3he_58a9ppz.css"
+ },
+ "/__ext_/use.typekit.net/af/e249d7/00000000000000007758da4c/31/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n8&v=3": {
+  "archivo": "__ext_/use.typekit.net/af/e249d7/00000000000000007758da4c/31/l__e6f72cd23b",
+  "tipo": "application/font-woff2",
+  "url": "https://use.typekit.net/af/e249d7/00000000000000007758da4c/31/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n8&v=3"
+ },
+ "/__ext_/use.typekit.net/af/ec3396/0000000000000000775e42a2/31/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3": {
+  "archivo": "__ext_/use.typekit.net/af/ec3396/0000000000000000775e42a2/31/l__e87284ca53",
+  "tipo": "application/font-woff2",
+  "url": "https://use.typekit.net/af/ec3396/0000000000000000775e42a2/31/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3"
+ },
+ "/__ext_/use.typekit.net/af/a04fc5/00000000000000007758da46/31/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3": {
+  "archivo": "__ext_/use.typekit.net/af/a04fc5/00000000000000007758da46/31/l__e35c7ac27f",
+  "tipo": "application/font-woff2",
+  "url": "https://use.typekit.net/af/a04fc5/00000000000000007758da46/31/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3"
+ },
+ "/assets/mask-image-1.jpg": {
+  "archivo": "assets/mask-image-1.jpg",
+  "tipo": "image/jpeg",
+  "url": "https://sweet-tape.com/assets/mask-image-1.jpg"
+ },
+ "/assets/preloader-image.svg": {
+  "archivo": "assets/preloader-image.svg",
+  "tipo": "image/svg+xml",
+  "url": "https://sweet-tape.com/assets/preloader-image.svg"
+ },
+ "/api/media/file/img-masking-tape-3.webp?v=mttikd63": {
+  "archivo": "api/media/file/img-masking-tape-3__b76027cbca.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/api/media/file/img-masking-tape-3.webp?v=mttikd63"
+ },
+ "/manifest.webmanifest": {
+  "archivo": "manifest.webmanifest",
+  "tipo": "application/manifest+json",
+  "url": "https://sweet-tape.com/manifest.webmanifest"
+ },
+ "/api/media/file/masking-roll.webp?v=mudws2na": {
+  "archivo": "api/media/file/masking-roll__d0373eea1e.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/api/media/file/masking-roll.webp?v=mudws2na"
+ },
+ "/api/media/file/double-roll.webp?v=mudws2mt": {
+  "archivo": "api/media/file/double-roll__d9a6d390bb.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/api/media/file/double-roll.webp?v=mudws2mt"
+ },
+ "/api/media/file/stationery-roll.webp?v=mudws2o9": {
+  "archivo": "api/media/file/stationery-roll__381ef0c086.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/api/media/file/stationery-roll.webp?v=mudws2o9"
+ },
+ "/assets/tapes/Low-Noise-Tape.glb": {
+  "archivo": "assets/tapes/Low-Noise-Tape.glb",
+  "tipo": "model/gltf-binary",
+  "url": "https://sweet-tape.com/assets/tapes/Low-Noise-Tape.glb"
+ },
+ "/assets/tape-sound-ball.webp": {
+  "archivo": "assets/tape-sound-ball.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/tape-sound-ball.webp"
+ },
+ "/_next/static/chunks/1jexzsn2qdw84.js": {
+  "archivo": "_next/static/chunks/1jexzsn2qdw84.js",
+  "tipo": "application/javascript; charset=UTF-8",
+  "url": "https://sweet-tape.com/_next/static/chunks/1jexzsn2qdw84.js"
+ },
+ "/_next/static/chunks/2up_x3pib6pc_.js": {
+  "archivo": "_next/static/chunks/2up_x3pib6pc_.js",
+  "tipo": "application/javascript; charset=UTF-8",
+  "url": "https://sweet-tape.com/_next/static/chunks/2up_x3pib6pc_.js"
+ },
+ "/_next/static/chunks/24j6c6ho8vtzb.js": {
+  "archivo": "_next/static/chunks/24j6c6ho8vtzb.js",
+  "tipo": "application/javascript; charset=UTF-8",
+  "url": "https://sweet-tape.com/_next/static/chunks/24j6c6ho8vtzb.js"
+ },
+ "/_next/static/chunks/3nc6x0_y5iwnk.js": {
+  "archivo": "_next/static/chunks/3nc6x0_y5iwnk.js",
+  "tipo": "application/javascript; charset=UTF-8",
+  "url": "https://sweet-tape.com/_next/static/chunks/3nc6x0_y5iwnk.js"
+ },
+ "/_next/static/chunks/turbopack-40dmwl_meehwo.js": {
+  "archivo": "_next/static/chunks/turbopack-40dmwl_meehwo.js",
+  "tipo": "application/javascript; charset=UTF-8",
+  "url": "https://sweet-tape.com/_next/static/chunks/turbopack-40dmwl_meehwo.js"
+ },
+ "/_next/static/chunks/337eeiph6mwz7.js": {
+  "archivo": "_next/static/chunks/337eeiph6mwz7.js",
+  "tipo": "application/javascript; charset=UTF-8",
+  "url": "https://sweet-tape.com/_next/static/chunks/337eeiph6mwz7.js"
+ },
+ "/_next/static/chunks/0gj78z5yxdyo1.js": {
+  "archivo": "_next/static/chunks/0gj78z5yxdyo1.js",
+  "tipo": "application/javascript; charset=UTF-8",
+  "url": "https://sweet-tape.com/_next/static/chunks/0gj78z5yxdyo1.js"
+ },
+ "/_next/static/chunks/09lfiv_61siim.js": {
+  "archivo": "_next/static/chunks/09lfiv_61siim.js",
+  "tipo": "application/javascript; charset=UTF-8",
+  "url": "https://sweet-tape.com/_next/static/chunks/09lfiv_61siim.js"
+ },
+ "/_next/static/chunks/215e8972oexyg.js": {
+  "archivo": "_next/static/chunks/215e8972oexyg.js",
+  "tipo": "application/javascript; charset=UTF-8",
+  "url": "https://sweet-tape.com/_next/static/chunks/215e8972oexyg.js"
+ },
+ "/_next/static/media/inter-tight-latin-wght-normal.1_fsb17gxmapx.woff2": {
+  "archivo": "_next/static/media/inter-tight-latin-wght-normal.1_fsb17gxmapx.woff2",
+  "tipo": "font/woff2",
+  "url": "https://sweet-tape.com/_next/static/media/inter-tight-latin-wght-normal.1_fsb17gxmapx.woff2"
+ },
+ "/_next/static/chunks/1bevjk_zfpi8k.js": {
+  "archivo": "_next/static/chunks/1bevjk_zfpi8k.js",
+  "tipo": "application/javascript; charset=UTF-8",
+  "url": "https://sweet-tape.com/_next/static/chunks/1bevjk_zfpi8k.js"
+ },
+ "/_next/static/chunks/12brgdlqixjgb.js": {
+  "archivo": "_next/static/chunks/12brgdlqixjgb.js",
+  "tipo": "application/javascript; charset=UTF-8",
+  "url": "https://sweet-tape.com/_next/static/chunks/12brgdlqixjgb.js"
+ },
+ "/_next/static/chunks/449pt6kwqbcu2.js": {
+  "archivo": "_next/static/chunks/449pt6kwqbcu2.js",
+  "tipo": "application/javascript; charset=UTF-8",
+  "url": "https://sweet-tape.com/_next/static/chunks/449pt6kwqbcu2.js"
+ },
+ "/_next/static/chunks/2r647-psjgy9s.js": {
+  "archivo": "_next/static/chunks/2r647-psjgy9s.js",
+  "tipo": "application/javascript; charset=UTF-8",
+  "url": "https://sweet-tape.com/_next/static/chunks/2r647-psjgy9s.js"
+ },
+ "/_next/static/chunks/149o3s1pke167.js": {
+  "archivo": "_next/static/chunks/149o3s1pke167.js",
+  "tipo": "application/javascript; charset=UTF-8",
+  "url": "https://sweet-tape.com/_next/static/chunks/149o3s1pke167.js"
+ },
+ "/assets/middle-T.webp": {
+  "archivo": "assets/middle-T.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/middle-T.webp"
+ },
+ "/assets/middle-H.webp": {
+  "archivo": "assets/middle-H.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/middle-H.webp"
+ },
+ "/assets/middle-E.webp": {
+  "archivo": "assets/middle-E.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/middle-E.webp"
+ },
+ "/assets/words/creative/C.webp": {
+  "archivo": "assets/words/creative/C.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/words/creative/C.webp"
+ },
+ "/assets/words/creative/R.webp": {
+  "archivo": "assets/words/creative/R.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/words/creative/R.webp"
+ },
+ "/assets/words/creative/E.webp": {
+  "archivo": "assets/words/creative/E.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/words/creative/E.webp"
+ },
+ "/assets/words/creative/A.webp": {
+  "archivo": "assets/words/creative/A.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/words/creative/A.webp"
+ },
+ "/assets/words/creative/T.webp": {
+  "archivo": "assets/words/creative/T.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/words/creative/T.webp"
+ },
+ "/assets/words/creative/I.webp": {
+  "archivo": "assets/words/creative/I.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/words/creative/I.webp"
+ },
+ "/assets/words/creative/V.webp": {
+  "archivo": "assets/words/creative/V.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/words/creative/V.webp"
+ },
+ "/assets/words/creative/E2.webp": {
+  "archivo": "assets/words/creative/E2.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/words/creative/E2.webp"
+ },
+ "/_next/static/chunks/1ntn7efqc-iiw.js": {
+  "archivo": "_next/static/chunks/1ntn7efqc-iiw.js",
+  "tipo": "application/javascript; charset=UTF-8",
+  "url": "https://sweet-tape.com/_next/static/chunks/1ntn7efqc-iiw.js"
+ },
+ "/assets/footer-stationery.svg": {
+  "archivo": "assets/footer-stationery.svg",
+  "tipo": "image/svg+xml",
+  "url": "https://sweet-tape.com/assets/footer-stationery.svg"
+ },
+ "/_next/static/chunks/0k9koybghp6ya.js": {
+  "archivo": "_next/static/chunks/0k9koybghp6ya.js",
+  "tipo": "application/javascript; charset=UTF-8",
+  "url": "https://sweet-tape.com/_next/static/chunks/0k9koybghp6ya.js"
+ },
+ "/api/media/file/opp-roll.webp?v=muqg6vzf": {
+  "archivo": "api/media/file/opp-roll__96f2bd0eee.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/api/media/file/opp-roll.webp?v=muqg6vzf"
+ },
+ "/assets/tape-on-lemon.webp": {
+  "archivo": "assets/tape-on-lemon.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/tape-on-lemon.webp"
+ },
+ "/api/media/file/cloth-roll.webp?v=mudws2lk": {
+  "archivo": "api/media/file/cloth-roll__c1e1333c67.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/api/media/file/cloth-roll.webp?v=mudws2lk"
+ },
+ "/api/media/file/opp-quiet-roll.webp?v=mudwy9fg": {
+  "archivo": "api/media/file/opp-quiet-roll__62c981f707.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/api/media/file/opp-quiet-roll.webp?v=mudwy9fg"
+ },
+ "/assets/black-cloth-tape-x4.png": {
+  "archivo": "assets/black-cloth-tape-x4.png",
+  "tipo": "image/png",
+  "url": "https://sweet-tape.com/assets/black-cloth-tape-x4.png"
+ },
+ "/assets/paper-clip-1.webp": {
+  "archivo": "assets/paper-clip-1.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/paper-clip-1.webp"
+ },
+ "/api/media/file/img-stationery-tape-2.webp?v=mttikdgc": {
+  "archivo": "api/media/file/img-stationery-tape-2__9fe0d1ba76.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/api/media/file/img-stationery-tape-2.webp?v=mttikdgc"
+ },
+ "/assets/footer-cloth.svg": {
+  "archivo": "assets/footer-cloth.svg",
+  "tipo": "image/svg+xml",
+  "url": "https://sweet-tape.com/assets/footer-cloth.svg"
+ },
+ "/assets/footer-double.svg": {
+  "archivo": "assets/footer-double.svg",
+  "tipo": "image/svg+xml",
+  "url": "https://sweet-tape.com/assets/footer-double.svg"
+ },
+ "/assets/footer-mask.svg": {
+  "archivo": "assets/footer-mask.svg",
+  "tipo": "image/svg+xml",
+  "url": "https://sweet-tape.com/assets/footer-mask.svg"
+ },
+ "/assets/index-1.svg": {
+  "archivo": "assets/index-1.svg",
+  "tipo": "image/svg+xml",
+  "url": "https://sweet-tape.com/assets/index-1.svg"
+ },
+ "/assets/slider/masking/card.webp": {
+  "archivo": "assets/slider/masking/card.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/slider/masking/card.webp"
+ },
+ "/assets/create-double-last.webp": {
+  "archivo": "assets/create-double-last.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/create-double-last.webp"
+ },
+ "/assets/slider/double/card.webp": {
+  "archivo": "assets/slider/double/card.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/slider/double/card.webp"
+ },
+ "/assets/slider/opp-quiet/card.webp": {
+  "archivo": "assets/slider/opp-quiet/card.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/slider/opp-quiet/card.webp"
+ },
+ "/assets/index-2.svg": {
+  "archivo": "assets/index-2.svg",
+  "tipo": "image/svg+xml",
+  "url": "https://sweet-tape.com/assets/index-2.svg"
+ },
+ "/assets/slider/cloth/card.webp": {
+  "archivo": "assets/slider/cloth/card.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/slider/cloth/card.webp"
+ },
+ "/assets/index-3.svg": {
+  "archivo": "assets/index-3.svg",
+  "tipo": "image/svg+xml",
+  "url": "https://sweet-tape.com/assets/index-3.svg"
+ },
+ "/_next/static/chunks/2yl1jv4w6po1z.js": {
+  "archivo": "_next/static/chunks/2yl1jv4w6po1z.js",
+  "tipo": "application/javascript; charset=UTF-8",
+  "url": "https://sweet-tape.com/_next/static/chunks/2yl1jv4w6po1z.js"
+ },
+ "/_next/static/chunks/27pna04oa2d5q.js": {
+  "archivo": "_next/static/chunks/27pna04oa2d5q.js",
+  "tipo": "application/javascript; charset=UTF-8",
+  "url": "https://sweet-tape.com/_next/static/chunks/27pna04oa2d5q.js"
+ },
+ "/_next/static/chunks/2s0u9hio1067v.js": {
+  "archivo": "_next/static/chunks/2s0u9hio1067v.js",
+  "tipo": "application/javascript; charset=UTF-8",
+  "url": "https://sweet-tape.com/_next/static/chunks/2s0u9hio1067v.js"
+ },
+ "/assets/create-masking-first.webp": {
+  "archivo": "assets/create-masking-first.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/create-masking-first.webp"
+ },
+ "/assets/cloth-tapex4-bottomleft.webp": {
+  "archivo": "assets/cloth-tapex4-bottomleft.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/cloth-tapex4-bottomleft.webp"
+ },
+ "/assets/opp-tape-x4.png": {
+  "archivo": "assets/opp-tape-x4.png",
+  "tipo": "image/png",
+  "url": "https://sweet-tape.com/assets/opp-tape-x4.png"
+ },
+ "/assets/lemon%20painting%201.webp": {
+  "archivo": "assets/lemon painting 1.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/lemon%20painting%201.webp"
+ },
+ "/assets/gift%201.webp": {
+  "archivo": "assets/gift 1.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/gift%201.webp"
+ },
+ "/api/media/file/masking-card.webp?v=mumg8usf": {
+  "archivo": "api/media/file/masking-card__31bcbd8c20.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/api/media/file/masking-card.webp?v=mumg8usf"
+ },
+ "/_next/static/chunks/1m41bpfyl7qvj.js": {
+  "archivo": "_next/static/chunks/1m41bpfyl7qvj.js",
+  "tipo": "application/javascript; charset=UTF-8",
+  "url": "https://sweet-tape.com/_next/static/chunks/1m41bpfyl7qvj.js"
+ },
+ "/assets/opp-tape-last.webp": {
+  "archivo": "assets/opp-tape-last.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/opp-tape-last.webp"
+ },
+ "/assets/sibling-opp-normal.webp": {
+  "archivo": "assets/sibling-opp-normal.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/sibling-opp-normal.webp"
+ },
+ "/assets/cloth-tapex4.webp": {
+  "archivo": "assets/cloth-tapex4.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/cloth-tapex4.webp"
+ },
+ "/assets/protect-opp-tape-x4-square.webp": {
+  "archivo": "assets/protect-opp-tape-x4-square.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/protect-opp-tape-x4-square.webp"
+ },
+ "/assets/masking-tape-x2.png": {
+  "archivo": "assets/masking-tape-x2.png",
+  "tipo": "image/png",
+  "url": "https://sweet-tape.com/assets/masking-tape-x2.png"
+ },
+ "/api/media/file/img-double-sided-tape-3.webp?v=mtqrgoz4": {
+  "archivo": "api/media/file/img-double-sided-tape-3__b6c311916a.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/api/media/file/img-double-sided-tape-3.webp?v=mtqrgoz4"
+ },
+ "/assets/paper-overlay.webp": {
+  "archivo": "assets/paper-overlay.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/paper-overlay.webp"
+ },
+ "/api/media/file/img-masking-tape-2.webp?v=mttikd2e": {
+  "archivo": "api/media/file/img-masking-tape-2__21cb5fa467.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/api/media/file/img-masking-tape-2.webp?v=mttikd2e"
+ },
+ "/api/media/file/img-masking-tape-1.webp?v=mttikcys": {
+  "archivo": "api/media/file/img-masking-tape-1__66b569ece5.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/api/media/file/img-masking-tape-1.webp?v=mttikcys"
+ },
+ "/assets/make-it-stick-2.webp": {
+  "archivo": "assets/make-it-stick-2.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/make-it-stick-2.webp"
+ },
+ "/assets/cardboard.webp": {
+  "archivo": "assets/cardboard.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/cardboard.webp"
+ },
+ "/api/media/file/img-opp-tape-1.webp?v=mttgr6zl": {
+  "archivo": "api/media/file/img-opp-tape-1__313ca71e9f.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/api/media/file/img-opp-tape-1.webp?v=mttgr6zl"
+ },
+ "/assets/new-cursor.svg": {
+  "archivo": "assets/new-cursor.svg",
+  "tipo": "image/svg+xml",
+  "url": "https://sweet-tape.com/assets/new-cursor.svg"
+ },
+ "/_next/static/chunks/3e0ez01ddqlh7.js": {
+  "archivo": "_next/static/chunks/3e0ez01ddqlh7.js",
+  "tipo": "application/javascript; charset=UTF-8",
+  "url": "https://sweet-tape.com/_next/static/chunks/3e0ez01ddqlh7.js"
+ },
+ "/_next/static/chunks/0qw6zdg5wyeuw.js": {
+  "archivo": "_next/static/chunks/0qw6zdg5wyeuw.js",
+  "tipo": "application/javascript; charset=UTF-8",
+  "url": "https://sweet-tape.com/_next/static/chunks/0qw6zdg5wyeuw.js"
+ },
+ "/assets/cursor-type.svg": {
+  "archivo": "assets/cursor-type.svg",
+  "tipo": "image/svg+xml",
+  "url": "https://sweet-tape.com/assets/cursor-type.svg"
+ },
+ "/assets/cursor-pointer.svg": {
+  "archivo": "assets/cursor-pointer.svg",
+  "tipo": "image/svg+xml",
+  "url": "https://sweet-tape.com/assets/cursor-pointer.svg"
+ },
+ "/api/media/file/double-card.webp?v=mumk9ny2": {
+  "archivo": "api/media/file/double-card__b730d7b4e7.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/api/media/file/double-card.webp?v=mumk9ny2"
+ },
+ "/api/media/file/img-double-sided-tape-2.webp?v=mttikd9j": {
+  "archivo": "api/media/file/img-double-sided-tape-2__1c41f1533a.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/api/media/file/img-double-sided-tape-2.webp?v=mttikd9j"
+ },
+ "/_next/static/chunks/1118ekqveyvwt.js": {
+  "archivo": "_next/static/chunks/1118ekqveyvwt.js",
+  "tipo": "application/javascript; charset=UTF-8",
+  "url": "https://sweet-tape.com/_next/static/chunks/1118ekqveyvwt.js"
+ },
+ "/_next/static/chunks/3gaupu_gw9zjj.js": {
+  "archivo": "_next/static/chunks/3gaupu_gw9zjj.js",
+  "tipo": "application/javascript; charset=UTF-8",
+  "url": "https://sweet-tape.com/_next/static/chunks/3gaupu_gw9zjj.js"
+ },
+ "/_next/static/chunks/0_x5nrklz202h.js": {
+  "archivo": "_next/static/chunks/0_x5nrklz202h.js",
+  "tipo": "application/javascript; charset=UTF-8",
+  "url": "https://sweet-tape.com/_next/static/chunks/0_x5nrklz202h.js"
+ },
+ "/assets/double-side-x4.png": {
+  "archivo": "assets/double-side-x4.png",
+  "tipo": "image/png",
+  "url": "https://sweet-tape.com/assets/double-side-x4.png"
+ },
+ "/api/media/file/img-double-sided-tape-4.webp?v=mttikdd3": {
+  "archivo": "api/media/file/img-double-sided-tape-4__f654564352.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/api/media/file/img-double-sided-tape-4.webp?v=mttikdd3"
+ },
+ "/api/media/file/stationery-card.svg?v=mumk9ny2": {
+  "archivo": "api/media/file/stationery-card__b730d7b4e7.svg",
+  "tipo": "image/svg+xml",
+  "url": "https://sweet-tape.com/api/media/file/stationery-card.svg?v=mumk9ny2"
+ },
+ "/assets/low-noise-x4-clear.png": {
+  "archivo": "assets/low-noise-x4-clear.png",
+  "tipo": "image/png",
+  "url": "https://sweet-tape.com/assets/low-noise-x4-clear.png"
+ },
+ "/api/media/file/cloth-card.webp?v=mumk9ny2": {
+  "archivo": "api/media/file/cloth-card__b730d7b4e7.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/api/media/file/cloth-card.webp?v=mumk9ny2"
+ },
+ "/api/media/file/img-stationery-tape-3.webp?v=mtqruzwr": {
+  "archivo": "api/media/file/img-stationery-tape-3__1429f5d115.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/api/media/file/img-stationery-tape-3.webp?v=mtqruzwr"
+ },
+ "/api/media/file/img-cloth-tape-3.webp?v=mttikdmg": {
+  "archivo": "api/media/file/img-cloth-tape-3__6489d0b6c1.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/api/media/file/img-cloth-tape-3.webp?v=mttikdmg"
+ },
+ "/api/media/file/img-cloth-tape-5.webp?v=mttikdjd": {
+  "archivo": "api/media/file/img-cloth-tape-5__496212c4e9.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/api/media/file/img-cloth-tape-5.webp?v=mttikdjd"
+ },
+ "/assets/tapes/Masking-Tape.glb": {
+  "archivo": "assets/tapes/Masking-Tape.glb",
+  "tipo": "model/gltf-binary",
+  "url": "https://sweet-tape.com/assets/tapes/Masking-Tape.glb"
+ },
+ "/api/media/file/opp-tape-shot-1.webp?v=muov8cmb": {
+  "archivo": "api/media/file/opp-tape-shot-1__f98a0dba10.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/api/media/file/opp-tape-shot-1.webp?v=muov8cmb"
+ },
+ "/api/media/file/opp-shot-2.webp?v=mtbq3364": {
+  "archivo": "api/media/file/opp-shot-2__de76c9175a.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/api/media/file/opp-shot-2.webp?v=mtbq3364"
+ },
+ "/api/media/file/opp-quiet-card.webp?v=mudwy9gr": {
+  "archivo": "api/media/file/opp-quiet-card__823a01470b.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/api/media/file/opp-quiet-card.webp?v=mudwy9gr"
+ },
+ "/api/media/file/img-opp-no-noise-tape-2.webp?v=mtquwmc6": {
+  "archivo": "api/media/file/img-opp-no-noise-tape-2__8c10812a17.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/api/media/file/img-opp-no-noise-tape-2.webp?v=mtquwmc6"
+ },
+ "/api/media/file/opp-quiet-shot-2.webp?v=mtbq32q3": {
+  "archivo": "api/media/file/opp-quiet-shot-2__ee7e2036d0.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/api/media/file/opp-quiet-shot-2.webp?v=mtbq32q3"
+ },
+ "/_next/static/chunks/3o0gscjkt-z9d.js": {
+  "archivo": "_next/static/chunks/3o0gscjkt-z9d.js",
+  "tipo": "application/javascript; charset=UTF-8",
+  "url": "https://sweet-tape.com/_next/static/chunks/3o0gscjkt-z9d.js"
+ },
+ "/assets/tapes/Double-Tape.glb": {
+  "archivo": "assets/tapes/Double-Tape.glb",
+  "tipo": "model/gltf-binary",
+  "url": "https://sweet-tape.com/assets/tapes/Double-Tape.glb"
+ },
+ "/icon.svg?icon.40ljoguaqfuq-.svg=": {
+  "archivo": "icon__0a48840f90.svg",
+  "tipo": "image/svg+xml",
+  "url": "https://sweet-tape.com/icon.svg?icon.40ljoguaqfuq-.svg"
+ },
+ "/assets/tapes/Cello-Tape.glb": {
+  "archivo": "assets/tapes/Cello-Tape.glb",
+  "tipo": "model/gltf-binary",
+  "url": "https://sweet-tape.com/assets/tapes/Cello-Tape.glb"
+ },
+ "/assets/tapes/Cloth-Tape.glb": {
+  "archivo": "assets/tapes/Cloth-Tape.glb",
+  "tipo": "model/gltf-binary",
+  "url": "https://sweet-tape.com/assets/tapes/Cloth-Tape.glb"
+ },
+ "/assets/tapes/header-brown.glb": {
+  "archivo": "assets/tapes/header-brown.glb",
+  "tipo": "model/gltf-binary",
+  "url": "https://sweet-tape.com/assets/tapes/header-brown.glb"
+ },
+ "/ |rsc| full": {
+  "archivo": "_rsc/inicio__584c950636.txt",
+  "tipo": "text/x-component",
+  "url": "https://sweet-tape.com/"
+ },
+ "/products |rsc| full": {
+  "archivo": "_rsc/products__413ada95b6.txt",
+  "tipo": "text/x-component",
+  "url": "https://sweet-tape.com/products"
+ },
+ "/about |rsc| full": {
+  "archivo": "_rsc/about__3d39f84f16.txt",
+  "tipo": "text/x-component",
+  "url": "https://sweet-tape.com/about"
+ },
+ "/news |rsc| full": {
+  "archivo": "_rsc/news__d0d6e94167.txt",
+  "tipo": "text/x-component",
+  "url": "https://sweet-tape.com/news"
+ },
+ "/contact |rsc| full": {
+  "archivo": "_rsc/contact__99b2dcf9f4.txt",
+  "tipo": "text/x-component",
+  "url": "https://sweet-tape.com/contact"
+ },
+ "/products/masking |rsc| full": {
+  "archivo": "_rsc/products/masking__398c244047.txt",
+  "tipo": "text/x-component",
+  "url": "https://sweet-tape.com/products/masking"
+ },
+ "/products/double |rsc| full": {
+  "archivo": "_rsc/products/double__ae3b7ca8f1.txt",
+  "tipo": "text/x-component",
+  "url": "https://sweet-tape.com/products/double"
+ },
+ "/products/stationery |rsc| full": {
+  "archivo": "_rsc/products/stationery__f27e4b6198.txt",
+  "tipo": "text/x-component",
+  "url": "https://sweet-tape.com/products/stationery"
+ },
+ "/products/cloth |rsc| full": {
+  "archivo": "_rsc/products/cloth__d1bfc8dc27.txt",
+  "tipo": "text/x-component",
+  "url": "https://sweet-tape.com/products/cloth"
+ },
+ "/products/opp |rsc| full": {
+  "archivo": "_rsc/products/opp__6e619f4d3e.txt",
+  "tipo": "text/x-component",
+  "url": "https://sweet-tape.com/products/opp"
+ },
+ "/products/opp-quiet |rsc| full": {
+  "archivo": "_rsc/products/opp-quiet__f9e171be98.txt",
+  "tipo": "text/x-component",
+  "url": "https://sweet-tape.com/products/opp-quiet"
+ },
+ "/news/same-tape-three-generations-finally-a-face |rsc| full": {
+  "archivo": "_rsc/news/same-tape-three-generations-finally-a-face__de70ab7507.txt",
+  "tipo": "text/x-component",
+  "url": "https://sweet-tape.com/news/same-tape-three-generations-finally-a-face"
+ },
+ "/news/sweettape-now-at-mr-diy |rsc| full": {
+  "archivo": "_rsc/news/sweettape-now-at-mr-diy__5d0261bf6f.txt",
+  "tipo": "text/x-component",
+  "url": "https://sweet-tape.com/news/sweettape-now-at-mr-diy"
+ },
+ "/products": {
+  "archivo": "products/index.html",
+  "tipo": "text/html; charset=utf-8",
+  "url": "https://sweet-tape.com/products"
+ },
+ "/_next/static/chunks/44iwfav55ij34.js": {
+  "archivo": "_next/static/chunks/44iwfav55ij34.js",
+  "tipo": "application/javascript; charset=UTF-8",
+  "url": "https://sweet-tape.com/_next/static/chunks/44iwfav55ij34.js"
+ },
+ "/about": {
+  "archivo": "about/index.html",
+  "tipo": "text/html; charset=utf-8",
+  "url": "https://sweet-tape.com/about"
+ },
+ "/api/media/file/about-logo.webp?v=mttggbrv": {
+  "archivo": "api/media/file/about-logo__79e6e6e525.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/api/media/file/about-logo.webp?v=mttggbrv"
+ },
+ "/api/media/file/newspaper.webp?v=mttgiovx": {
+  "archivo": "api/media/file/newspaper__731568d612.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/api/media/file/newspaper.webp?v=mttgiovx"
+ },
+ "/_next/static/chunks/0onox6y6hp24x.js": {
+  "archivo": "_next/static/chunks/0onox6y6hp24x.js",
+  "tipo": "application/javascript; charset=UTF-8",
+  "url": "https://sweet-tape.com/_next/static/chunks/0onox6y6hp24x.js"
+ },
+ "/_next/static/chunks/39c2ezok976pv.js": {
+  "archivo": "_next/static/chunks/39c2ezok976pv.js",
+  "tipo": "application/javascript; charset=UTF-8",
+  "url": "https://sweet-tape.com/_next/static/chunks/39c2ezok976pv.js"
+ },
+ "/assets/opp-tape-inner-product.webp": {
+  "archivo": "assets/opp-tape-inner-product.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/opp-tape-inner-product.webp"
+ },
+ "/api/media/file/shophouse.webp?v=mttgj61y": {
+  "archivo": "api/media/file/shophouse__b71f6c9107.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/api/media/file/shophouse.webp?v=mttgj61y"
+ },
+ "/api/media/file/mask.webp?v=mttgjuwm": {
+  "archivo": "api/media/file/mask__07879fe211.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/api/media/file/mask.webp?v=mttgjuwm"
+ },
+ "/assets/box-behind.png": {
+  "archivo": "assets/box-behind.png",
+  "tipo": "image/png",
+  "url": "https://sweet-tape.com/assets/box-behind.png"
+ },
+ "/assets/about/wanted/clearer.svg": {
+  "archivo": "assets/about/wanted/clearer.svg",
+  "tipo": "image/svg+xml",
+  "url": "https://sweet-tape.com/assets/about/wanted/clearer.svg"
+ },
+ "/assets/about/wanted/choose.svg": {
+  "archivo": "assets/about/wanted/choose.svg",
+  "tipo": "image/svg+xml",
+  "url": "https://sweet-tape.com/assets/about/wanted/choose.svg"
+ },
+ "/assets/box-front.png": {
+  "archivo": "assets/box-front.png",
+  "tipo": "image/png",
+  "url": "https://sweet-tape.com/assets/box-front.png"
+ },
+ "/assets/hand-4x-export.webp": {
+  "archivo": "assets/hand-4x-export.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/hand-4x-export.webp"
+ },
+ "/assets/about/wanted/recognisable.svg": {
+  "archivo": "assets/about/wanted/recognisable.svg",
+  "tipo": "image/svg+xml",
+  "url": "https://sweet-tape.com/assets/about/wanted/recognisable.svg"
+ },
+ "/assets/uncrumpled-paper/paper-1.webp": {
+  "archivo": "assets/uncrumpled-paper/paper-1.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/uncrumpled-paper/paper-1.webp"
+ },
+ "/assets/about/wanted/human.svg": {
+  "archivo": "assets/about/wanted/human.svg",
+  "tipo": "image/svg+xml",
+  "url": "https://sweet-tape.com/assets/about/wanted/human.svg"
+ },
+ "/assets/masking-x4-reimagine.webp": {
+  "archivo": "assets/masking-x4-reimagine.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/masking-x4-reimagine.webp"
+ },
+ "/assets/double-x4-reimagine.webp": {
+  "archivo": "assets/double-x4-reimagine.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/double-x4-reimagine.webp"
+ },
+ "/assets/doodle-heart.webp": {
+  "archivo": "assets/doodle-heart.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/doodle-heart.webp"
+ },
+ "/assets/doodle-leftof-bottom-image.webp": {
+  "archivo": "assets/doodle-leftof-bottom-image.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/doodle-leftof-bottom-image.webp"
+ },
+ "/assets/full-of-heart-underline.svg": {
+  "archivo": "assets/full-of-heart-underline.svg",
+  "tipo": "image/svg+xml",
+  "url": "https://sweet-tape.com/assets/full-of-heart-underline.svg"
+ },
+ "/api/media/file/red%20cloth%20tape.webp?v=mtjtjjp4": {
+  "archivo": "api/media/file/red cloth tape__bc590cf969.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/api/media/file/red%20cloth%20tape.webp?v=mtjtjjp4"
+ },
+ "/api/media/file/Basket%20of%20tapes%201.webp?v=mtjtiei6": {
+  "archivo": "api/media/file/Basket of tapes 1__fd7483496d.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/api/media/file/Basket%20of%20tapes%201.webp?v=mtjtiei6"
+ },
+ "/api/media/file/pill-1-full.webp?v=mtjtkpmp": {
+  "archivo": "api/media/file/pill-1-full__93f7bcc58c.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/api/media/file/pill-1-full.webp?v=mtjtkpmp"
+ },
+ "/assets/masking%20tape%20rolling%201.png": {
+  "archivo": "assets/masking tape rolling 1.png",
+  "tipo": "image/png",
+  "url": "https://sweet-tape.com/assets/masking%20tape%20rolling%201.png"
+ },
+ "/api/media/file/masking-circle.webp?v=mtjtmo03": {
+  "archivo": "api/media/file/masking-circle__bf0c51e742.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/api/media/file/masking-circle.webp?v=mtjtmo03"
+ },
+ "/api/media/file/pill-2-full.webp?v=mtjtnfla": {
+  "archivo": "api/media/file/pill-2-full__398738834e.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/api/media/file/pill-2-full.webp?v=mtjtnfla"
+ },
+ "/api/media/file/pill-4-full.webp?v=mtjtqh7l": {
+  "archivo": "api/media/file/pill-4-full__60bbbbe655.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/api/media/file/pill-4-full.webp?v=mtjtqh7l"
+ },
+ "/api/media/file/Cloth%20tape%20black.webp?v=mtjtrc0g": {
+  "archivo": "api/media/file/Cloth tape black__1448fba565.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/api/media/file/Cloth%20tape%20black.webp?v=mtjtrc0g"
+ },
+ "/api/media/file/pill-3-full.webp?v=mtjtpu9w": {
+  "archivo": "api/media/file/pill-3-full__90c21a886b.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/api/media/file/pill-3-full.webp?v=mtjtpu9w"
+ },
+ "/assets/tapes/Header-Brown-Inner.glb": {
+  "archivo": "assets/tapes/Header-Brown-Inner.glb",
+  "tipo": "model/gltf-binary",
+  "url": "https://sweet-tape.com/assets/tapes/Header-Brown-Inner.glb"
+ },
+ "/api/media/file/pill-1-1.webp?v=mtjtfg1e": {
+  "archivo": "api/media/file/pill-1-1__0850695a4c.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/api/media/file/pill-1-1.webp?v=mtjtfg1e"
+ },
+ "/assets/cta-bg.webp": {
+  "archivo": "assets/cta-bg.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/cta-bg.webp"
+ },
+ "/assets/front-cta.webp": {
+  "archivo": "assets/front-cta.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/front-cta.webp"
+ },
+ "/products |rsc| seg:/_tree": {
+  "archivo": "_rsc/products__581dd45955.txt",
+  "tipo": "text/x-component",
+  "url": "https://sweet-tape.com/products?_rsc=Sdev7PUlRw12F58X"
+ },
+ "/products |rsc| prefetch": {
+  "archivo": "_rsc/products__ec87fff4fb.txt",
+  "tipo": "text/x-component",
+  "url": "https://sweet-tape.com/products?_rsc=yMFZbW3py_RmPDJX"
+ },
+ "/news": {
+  "archivo": "news/index.html",
+  "tipo": "text/html; charset=utf-8",
+  "url": "https://sweet-tape.com/news"
+ },
+ "/_next/static/chunks/2_klso22ize_5.js": {
+  "archivo": "_next/static/chunks/2_klso22ize_5.js",
+  "tipo": "application/javascript; charset=UTF-8",
+  "url": "https://sweet-tape.com/_next/static/chunks/2_klso22ize_5.js"
+ },
+ "/api/media/file/news-needtostick.webp?v=mumdcwfe": {
+  "archivo": "api/media/file/news-needtostick__b213a3b63c.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/api/media/file/news-needtostick.webp?v=mumdcwfe"
+ },
+ "/api/media/file/news-generations.webp?v=mumdcw4w": {
+  "archivo": "api/media/file/news-generations__9c868bf6af.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/api/media/file/news-generations.webp?v=mumdcw4w"
+ },
+ "/contact": {
+  "archivo": "contact/index.html",
+  "tipo": "text/html; charset=utf-8",
+  "url": "https://sweet-tape.com/contact"
+ },
+ "/_next/static/chunks/3heutnmr7w9j1.js": {
+  "archivo": "_next/static/chunks/3heutnmr7w9j1.js",
+  "tipo": "application/javascript; charset=UTF-8",
+  "url": "https://sweet-tape.com/_next/static/chunks/3heutnmr7w9j1.js"
+ },
+ "/_next/static/chunks/0pajubuq_f9lu.js": {
+  "archivo": "_next/static/chunks/0pajubuq_f9lu.js",
+  "tipo": "application/javascript; charset=UTF-8",
+  "url": "https://sweet-tape.com/_next/static/chunks/0pajubuq_f9lu.js"
+ },
+ "/products/masking": {
+  "archivo": "products/masking/index.html",
+  "tipo": "text/html; charset=utf-8",
+  "url": "https://sweet-tape.com/products/masking"
+ },
+ "/_next/static/chunks/1l3ecubevlqe5.js": {
+  "archivo": "_next/static/chunks/1l3ecubevlqe5.js",
+  "tipo": "application/javascript; charset=UTF-8",
+  "url": "https://sweet-tape.com/_next/static/chunks/1l3ecubevlqe5.js"
+ },
+ "/_next/static/chunks/15e1rmzfrztit.js": {
+  "archivo": "_next/static/chunks/15e1rmzfrztit.js",
+  "tipo": "application/javascript; charset=UTF-8",
+  "url": "https://sweet-tape.com/_next/static/chunks/15e1rmzfrztit.js"
+ },
+ "/assets/sibling-masking-strong.webp": {
+  "archivo": "assets/sibling-masking-strong.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/sibling-masking-strong.webp"
+ },
+ "/api/media/file/Group%20876.webp?v=mtctrhun": {
+  "archivo": "api/media/file/Group 876__7babcdf647.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/api/media/file/Group%20876.webp?v=mtctrhun"
+ },
+ "/assets/masking-tape-x2-tall.png": {
+  "archivo": "assets/masking-tape-x2-tall.png",
+  "tipo": "image/png",
+  "url": "https://sweet-tape.com/assets/masking-tape-x2-tall.png"
+ },
+ "/products/double |rsc| seg:/_tree": {
+  "archivo": "_rsc/products/double__1cd510f74c.txt",
+  "tipo": "text/x-component",
+  "url": "https://sweet-tape.com/products/double?_rsc=CEMG7YgqOBtb2jb3"
+ },
+ "/assets/words/trusty/T.webp": {
+  "archivo": "assets/words/trusty/T.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/words/trusty/T.webp"
+ },
+ "/products/double": {
+  "archivo": "products/double/index.html",
+  "tipo": "text/html; charset=utf-8",
+  "url": "https://sweet-tape.com/products/double"
+ },
+ "/assets/words/trusty/R.webp": {
+  "archivo": "assets/words/trusty/R.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/words/trusty/R.webp"
+ },
+ "/assets/words/trusty/U.webp": {
+  "archivo": "assets/words/trusty/U.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/words/trusty/U.webp"
+ },
+ "/assets/words/trusty/T2.webp": {
+  "archivo": "assets/words/trusty/T2.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/words/trusty/T2.webp"
+ },
+ "/assets/words/trusty/Y.webp": {
+  "archivo": "assets/words/trusty/Y.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/words/trusty/Y.webp"
+ },
+ "/assets/words/trusty/S.webp": {
+  "archivo": "assets/words/trusty/S.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/words/trusty/S.webp"
+ },
+ "/api/media/file/img-double-sided-tape.webp?v=mtqr9zxx": {
+  "archivo": "api/media/file/img-double-sided-tape__c7d41b642e.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/api/media/file/img-double-sided-tape.webp?v=mtqr9zxx"
+ },
+ "/api/media/file/img-double-sided-tape-5.webp?v=mtqrlt4f": {
+  "archivo": "api/media/file/img-double-sided-tape-5__6ee59977f1.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/api/media/file/img-double-sided-tape-5.webp?v=mtqrlt4f"
+ },
+ "/assets/double-side-x4-tall.png": {
+  "archivo": "assets/double-side-x4-tall.png",
+  "tipo": "image/png",
+  "url": "https://sweet-tape.com/assets/double-side-x4-tall.png"
+ },
+ "/products/stationery |rsc| seg:/_tree": {
+  "archivo": "_rsc/products/stationery__f802ada554.txt",
+  "tipo": "text/x-component",
+  "url": "https://sweet-tape.com/products/stationery?_rsc=Jvo0uQo0921gB2lY"
+ },
+ "/products/stationery": {
+  "archivo": "products/stationery/index.html",
+  "tipo": "text/html; charset=utf-8",
+  "url": "https://sweet-tape.com/products/stationery"
+ },
+ "/assets/words/buddy/B.webp": {
+  "archivo": "assets/words/buddy/B.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/words/buddy/B.webp"
+ },
+ "/assets/words/buddy/U.webp": {
+  "archivo": "assets/words/buddy/U.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/words/buddy/U.webp"
+ },
+ "/assets/words/buddy/D.webp": {
+  "archivo": "assets/words/buddy/D.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/words/buddy/D.webp"
+ },
+ "/assets/words/buddy/Y.webp": {
+  "archivo": "assets/words/buddy/Y.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/words/buddy/Y.webp"
+ },
+ "/assets/words/buddy/D2.webp": {
+  "archivo": "assets/words/buddy/D2.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/words/buddy/D2.webp"
+ },
+ "/assets/low-noise-x4-clear-tall.png": {
+  "archivo": "assets/low-noise-x4-clear-tall.png",
+  "tipo": "image/png",
+  "url": "https://sweet-tape.com/assets/low-noise-x4-clear-tall.png"
+ },
+ "/api/media/file/img-stationery-tape.webp?v=mtqrp80q": {
+  "archivo": "api/media/file/img-stationery-tape__bd6f30b8ac.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/api/media/file/img-stationery-tape.webp?v=mtqrp80q"
+ },
+ "/api/media/file/Group%20872.webp?v=mtckj1js": {
+  "archivo": "api/media/file/Group 872__023470cffd.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/api/media/file/Group%20872.webp?v=mtckj1js"
+ },
+ "/assets/sibling-stationery-cello.svg": {
+  "archivo": "assets/sibling-stationery-cello.svg",
+  "tipo": "image/svg+xml",
+  "url": "https://sweet-tape.com/assets/sibling-stationery-cello.svg"
+ },
+ "/api/media/file/img-stationery-tape-1.webp?v=mtqrufk1": {
+  "archivo": "api/media/file/img-stationery-tape-1__2e200bd7a3.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/api/media/file/img-stationery-tape-1.webp?v=mtqrufk1"
+ },
+ "/api/media/file/img-stationery-tape-4.webp?v=mtqrvbd6": {
+  "archivo": "api/media/file/img-stationery-tape-4__588c455b61.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/api/media/file/img-stationery-tape-4.webp?v=mtqrvbd6"
+ },
+ "/products/cloth": {
+  "archivo": "products/cloth/index.html",
+  "tipo": "text/html; charset=utf-8",
+  "url": "https://sweet-tape.com/products/cloth"
+ },
+ "/assets/words/fixer/F.webp": {
+  "archivo": "assets/words/fixer/F.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/words/fixer/F.webp"
+ },
+ "/assets/words/fixer/X.webp": {
+  "archivo": "assets/words/fixer/X.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/words/fixer/X.webp"
+ },
+ "/assets/words/fixer/I.webp": {
+  "archivo": "assets/words/fixer/I.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/words/fixer/I.webp"
+ },
+ "/assets/words/fixer/R.webp": {
+  "archivo": "assets/words/fixer/R.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/words/fixer/R.webp"
+ },
+ "/assets/words/fixer/E.webp": {
+  "archivo": "assets/words/fixer/E.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/words/fixer/E.webp"
+ },
+ "/assets/sibling-cloth-normal.webp": {
+  "archivo": "assets/sibling-cloth-normal.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/sibling-cloth-normal.webp"
+ },
+ "/assets/sibling-cloth-strong.webp": {
+  "archivo": "assets/sibling-cloth-strong.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/sibling-cloth-strong.webp"
+ },
+ "/assets/black-cloth-tape-x4-tall.png": {
+  "archivo": "assets/black-cloth-tape-x4-tall.png",
+  "tipo": "image/png",
+  "url": "https://sweet-tape.com/assets/black-cloth-tape-x4-tall.png"
+ },
+ "/api/media/file/img-cloth-tape-4.webp?v=mtquzatl": {
+  "archivo": "api/media/file/img-cloth-tape-4__f596d3b26c.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/api/media/file/img-cloth-tape-4.webp?v=mtquzatl"
+ },
+ "/products/opp |rsc| seg:/_tree": {
+  "archivo": "_rsc/products/opp__1bc4bd2c41.txt",
+  "tipo": "text/x-component",
+  "url": "https://sweet-tape.com/products/opp?_rsc=xzjGMi6rketAKfR9"
+ },
+ "/products/opp": {
+  "archivo": "products/opp/index.html",
+  "tipo": "text/html; charset=utf-8",
+  "url": "https://sweet-tape.com/products/opp"
+ },
+ "/assets/words/reliable/L.webp": {
+  "archivo": "assets/words/reliable/L.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/words/reliable/L.webp"
+ },
+ "/assets/words/reliable/R.webp": {
+  "archivo": "assets/words/reliable/R.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/words/reliable/R.webp"
+ },
+ "/api/media/file/opp-tape-inner-product.webp?v=mtbq30xp": {
+  "archivo": "api/media/file/opp-tape-inner-product__ce0b61e32b.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/api/media/file/opp-tape-inner-product.webp?v=mtbq30xp"
+ },
+ "/assets/words/reliable/E.webp": {
+  "archivo": "assets/words/reliable/E.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/words/reliable/E.webp"
+ },
+ "/assets/words/reliable/B.webp": {
+  "archivo": "assets/words/reliable/B.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/words/reliable/B.webp"
+ },
+ "/assets/words/reliable/A.webp": {
+  "archivo": "assets/words/reliable/A.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/words/reliable/A.webp"
+ },
+ "/assets/words/reliable/I.webp": {
+  "archivo": "assets/words/reliable/I.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/words/reliable/I.webp"
+ },
+ "/assets/words/reliable/E2.webp": {
+  "archivo": "assets/words/reliable/E2.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/words/reliable/E2.webp"
+ },
+ "/assets/words/reliable/L2.webp": {
+  "archivo": "assets/words/reliable/L2.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/words/reliable/L2.webp"
+ },
+ "/assets/sibling-opp-strong.webp": {
+  "archivo": "assets/sibling-opp-strong.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/sibling-opp-strong.webp"
+ },
+ "/assets/long-tape.webp": {
+  "archivo": "assets/long-tape.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/long-tape.webp"
+ },
+ "/assets/sibling-opp-xtra-strong.webp": {
+  "archivo": "assets/sibling-opp-xtra-strong.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/sibling-opp-xtra-strong.webp"
+ },
+ "/api/media/file/img-opp-tape-3.webp?v=mtqun94e": {
+  "archivo": "api/media/file/img-opp-tape-3__8484e74c7d.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/api/media/file/img-opp-tape-3.webp?v=mtqun94e"
+ },
+ "/api/media/file/img-opp-tape-4.webp?v=mtqunjsg": {
+  "archivo": "api/media/file/img-opp-tape-4__b61c610ec9.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/api/media/file/img-opp-tape-4.webp?v=mtqunjsg"
+ },
+ "/api/media/file/img-opp-tape-2.webp?v=mtqumybk": {
+  "archivo": "api/media/file/img-opp-tape-2__9c3ce22317.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/api/media/file/img-opp-tape-2.webp?v=mtqumybk"
+ },
+ "/products/opp-quiet |rsc| seg:/_tree": {
+  "archivo": "_rsc/products/opp-quiet__5d1641c7a5.txt",
+  "tipo": "text/x-component",
+  "url": "https://sweet-tape.com/products/opp-quiet?_rsc=0RpO8vW1bbB-u-JQ"
+ },
+ "/products/opp-quiet": {
+  "archivo": "products/opp-quiet/index.html",
+  "tipo": "text/html; charset=utf-8",
+  "url": "https://sweet-tape.com/products/opp-quiet"
+ },
+ "/assets/words/silent/S.webp": {
+  "archivo": "assets/words/silent/S.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/words/silent/S.webp"
+ },
+ "/assets/words/silent/L.webp": {
+  "archivo": "assets/words/silent/L.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/words/silent/L.webp"
+ },
+ "/assets/words/silent/I.webp": {
+  "archivo": "assets/words/silent/I.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/words/silent/I.webp"
+ },
+ "/assets/words/silent/T.webp": {
+  "archivo": "assets/words/silent/T.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/words/silent/T.webp"
+ },
+ "/assets/words/silent/E.webp": {
+  "archivo": "assets/words/silent/E.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/words/silent/E.webp"
+ },
+ "/assets/words/silent/N.webp": {
+  "archivo": "assets/words/silent/N.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/words/silent/N.webp"
+ },
+ "/api/media/file/img-opp-no-noise-tape-3.webp?v=mtquwyf0": {
+  "archivo": "api/media/file/img-opp-no-noise-tape-3__c818537007.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/api/media/file/img-opp-no-noise-tape-3.webp?v=mtquwyf0"
+ },
+ "/api/media/file/img-opp-no-noise-tape-5.webp?v=mtquxkxz": {
+  "archivo": "api/media/file/img-opp-no-noise-tape-5__ab86d27337.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/api/media/file/img-opp-no-noise-tape-5.webp?v=mtquxkxz"
+ },
+ "/api/media/file/img-opp-no-noise-tape-4.webp?v=mtquxaoi": {
+  "archivo": "api/media/file/img-opp-no-noise-tape-4__42c5826bc2.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/api/media/file/img-opp-no-noise-tape-4.webp?v=mtquxaoi"
+ },
+ "/products/masking |rsc| seg:/_tree": {
+  "archivo": "_rsc/products/masking__840eac9d19.txt",
+  "tipo": "text/x-component",
+  "url": "https://sweet-tape.com/products/masking?_rsc=htCi9mPHY7ymX7kT"
+ },
+ "/news/same-tape-three-generations-finally-a-face": {
+  "archivo": "news/same-tape-three-generations-finally-a-face/index.html",
+  "tipo": "text/html; charset=utf-8",
+  "url": "https://sweet-tape.com/news/same-tape-three-generations-finally-a-face"
+ },
+ "/_next/static/chunks/3_yagcgbvdfnp.js": {
+  "archivo": "_next/static/chunks/3_yagcgbvdfnp.js",
+  "tipo": "application/javascript; charset=UTF-8",
+  "url": "https://sweet-tape.com/_next/static/chunks/3_yagcgbvdfnp.js"
+ },
+ "/news/sweettape-now-at-mr-diy": {
+  "archivo": "news/sweettape-now-at-mr-diy/index.html",
+  "tipo": "text/html; charset=utf-8",
+  "url": "https://sweet-tape.com/news/sweettape-now-at-mr-diy"
+ },
+ "/assets/mobile-slider-prev.webp": {
+  "archivo": "assets/mobile-slider-prev.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/mobile-slider-prev.webp"
+ },
+ "/assets/mobile-slider-next.webp": {
+  "archivo": "assets/mobile-slider-next.webp",
+  "tipo": "image/webp",
+  "url": "https://sweet-tape.com/assets/mobile-slider-next.webp"
+ },
+ "/products/cloth |rsc| seg:/_tree": {
+  "archivo": "_rsc/products/cloth__250cd8465d.txt",
+  "tipo": "text/x-component",
+  "url": "https://sweet-tape.com/products/cloth?_rsc=J3xfOBSIT2eSjtyT"
+ }
+}

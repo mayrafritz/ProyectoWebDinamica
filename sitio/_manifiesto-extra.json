@@ -1,0 +1,92 @@
+{
+ "/assets/sounds/tape-stretch.wav": {
+  "archivo": "assets/sounds/tape-stretch.wav",
+  "tipo": "audio/wav",
+  "url": "https://sweet-tape.com/assets/sounds/tape-stretch.wav"
+ },
+ "/assets/sounds/slide-change.mp3": {
+  "archivo": "assets/sounds/slide-change.mp3",
+  "tipo": "audio/mpeg",
+  "url": "https://sweet-tape.com/assets/sounds/slide-change.mp3"
+ },
+ "/assets/sounds/tape-press.wav": {
+  "archivo": "assets/sounds/tape-press.wav",
+  "tipo": "audio/wav",
+  "url": "https://sweet-tape.com/assets/sounds/tape-press.wav"
+ },
+ "/assets/sounds/box-pop.mp3": {
+  "archivo": "assets/sounds/box-pop.mp3",
+  "tipo": "audio/mpeg",
+  "url": "https://sweet-tape.com/assets/sounds/box-pop.mp3"
+ },
+ "/assets/sounds/menu-pull.mp3": {
+  "archivo": "assets/sounds/menu-pull.mp3",
+  "tipo": "audio/mpeg",
+  "url": "https://sweet-tape.com/assets/sounds/menu-pull.mp3"
+ },
+ "/assets/sounds/menu-hover.mp3": {
+  "archivo": "assets/sounds/menu-hover.mp3",
+  "tipo": "audio/mpeg",
+  "url": "https://sweet-tape.com/assets/sounds/menu-hover.mp3"
+ },
+ "/assets/sounds/sound-toggle.mp3": {
+  "archivo": "assets/sounds/sound-toggle.mp3",
+  "tipo": "audio/mpeg",
+  "url": "https://sweet-tape.com/assets/sounds/sound-toggle.mp3"
+ },
+ "/assets/sounds/cursor-click.mp3": {
+  "archivo": "assets/sounds/cursor-click.mp3",
+  "tipo": "audio/mpeg",
+  "url": "https://sweet-tape.com/assets/sounds/cursor-click.mp3"
+ },
+ "/assets/sounds/hand-out.mp3": {
+  "archivo": "assets/sounds/hand-out.mp3",
+  "tipo": "audio/mpeg",
+  "url": "https://sweet-tape.com/assets/sounds/hand-out.mp3"
+ },
+ "/assets/sounds/logo-zoom.mp3": {
+  "archivo": "assets/sounds/logo-zoom.mp3",
+  "tipo": "audio/mpeg",
+  "url": "https://sweet-tape.com/assets/sounds/logo-zoom.mp3"
+ },
+ "/assets/sounds/next-hover.mp3": {
+  "archivo": "assets/sounds/next-hover.mp3",
+  "tipo": "audio/mpeg",
+  "url": "https://sweet-tape.com/assets/sounds/next-hover.mp3"
+ },
+ "/assets/sounds/pick-hover.mp3": {
+  "archivo": "assets/sounds/pick-hover.mp3",
+  "tipo": "audio/mpeg",
+  "url": "https://sweet-tape.com/assets/sounds/pick-hover.mp3"
+ },
+ "/assets/sounds/bgm.m4a": {
+  "archivo": "assets/sounds/bgm.m4a",
+  "tipo": "audio/mp4",
+  "url": "https://sweet-tape.com/assets/sounds/bgm.m4a"
+ },
+ "/robots.txt": {
+  "archivo": "robots.txt",
+  "tipo": "text/plain",
+  "url": "https://sweet-tape.com/robots.txt"
+ },
+ "/sitemap.xml": {
+  "archivo": "sitemap.xml",
+  "tipo": "application/xml",
+  "url": "https://sweet-tape.com/sitemap.xml"
+ },
+ "/assets/og.jpg": {
+  "archivo": "assets/og.jpg",
+  "tipo": "image/jpeg",
+  "url": "https://sweet-tape.com/assets/og.jpg"
+ },
+ "/icon.svg?icon.40ljoguaqfuq-.svg": {
+  "archivo": "icon__q.svg",
+  "tipo": "image/svg+xml",
+  "url": "https://sweet-tape.com/icon.svg?icon.40ljoguaqfuq-.svg"
+ },
+ "/apple-icon.png?apple-icon.2fmsx8429drm7.png": {
+  "archivo": "apple-icon__q.png",
+  "tipo": "image/png",
+  "url": "https://sweet-tape.com/apple-icon.png?apple-icon.2fmsx8429drm7.png"
+ }
+}
